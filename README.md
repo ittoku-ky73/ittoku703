@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @shinzanmono
-- 👀 I’m interested in 
-- - C 
-- - Ruby
-- 🌱 I’m currently learning 
-- - Rails
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me 
--  - shinzanmono1192@gmail.com
+### 👋 Hi, I’m @ittoku703
+
+I do web development using ruby on rails 👐
+
+👀 I’m interested in 
+- ruby
+- C language
+- AWS (Amazon Web Service)
+
+🌱 I’m currently learning 
+- Ruby on Rails ✋
+
+💞️ I’m looking to collaborate
+- Not yet 
+
+📫 How to reach me 
+- https://twitter.com/ittoku703
 
 <!---
 shinzanmono/shinzanmono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
