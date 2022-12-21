@@ -1,22 +1,23 @@
-### 👋 Hi, I’m @ittoku703
+# 👋 Hi, I’m @ittoku-ky73
 
-I do web development using ruby on rails 👐
+I am Programmer👩‍💻, Web Development Engineer🛠️, and I love Github💕
 
-👀 I’m interested in 
-- ruby
-- C language
-- AWS (Amazon Web Service)
+### [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently learning 
-- Ruby on Rails ✋
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittoku-ky73&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ittoku-ky73&layout=compact&theme=tokyonight" />
+  </a>
+</p>
 
-💞️ I’m looking to collaborate
-- Not yet 
+### [skillicons.dev](https://skillicons.dev)
 
-📫 How to reach me 
-- https://twitter.com/ittoku703
-
-<!---
-shinzanmono/shinzanmono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby,rails,rust" /><br />
+    <img src="https://skillicons.dev/icons?i=github,docker,vim" />
+  </a>
+</p>
