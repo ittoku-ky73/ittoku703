@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ittoku-ky73
+# 👋 Hi, I’m @ittokun
 
 I am Programmer👩‍💻, Web Development Engineer🛠️, and I love Github💕
 
@@ -6,10 +6,10 @@ I am Programmer👩‍💻, Web Development Engineer🛠️, and I love Github�
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittoku-ky73&layout=compact&theme=tokyonight" />
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittokun&layout=compact&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ittoku-ky73&layout=compact&theme=tokyonight" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ittokun&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
