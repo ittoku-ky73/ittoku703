@@ -5,12 +5,16 @@ I am Programmer👩‍💻, Web Development Engineer🛠️, and I love Github�
 ### [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittokun&layout=compact&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ittokun&layout=compact&theme=tokyonight" />
-  </a>
+  <img
+    alt="Top Langs"
+    height="150px"
+    src="https://github-readme-stats-ittokun.vercel.app/api/top-langs/?username=ittokun&layout=compact&theme=tokyonight"
+  />
+  <img
+    alt="github stats"
+    height="150px"
+    src="https://github-readme-stats-ittokun.vercel.app/api?username=ittokun&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ### [skillicons.dev](https://skillicons.dev)
