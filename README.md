@@ -21,8 +21,8 @@ I am Programmer👩‍💻, Web Development Engineer🛠️, and I love Github�
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,ruby,html,css,c,rust,lua" /><br />
-    <img src="https://skillicons.dev/icons?i=rails,nodejs,nextjs" /><br />
-    <img src="https://skillicons.dev/icons?i=github,docker,neovim,vim" />
+    <img src="https://skillicons.dev/icons?i=rust,ts,js,ruby" /><br />
+    <img src="https://skillicons.dev/icons?i=actix,nextjs,rails,nodejs" /><br />
+    <img src="https://skillicons.dev/icons?i=github,docker,neovim,vscode" />
   </a>
 </p>
